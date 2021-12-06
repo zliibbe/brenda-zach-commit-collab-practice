@@ -1,1 +1,3 @@
 Brenda & Zach's Git Collab Practice!
+
+Hey this is what I'm doing on my Branch. I wonder what Brenda is doing...
